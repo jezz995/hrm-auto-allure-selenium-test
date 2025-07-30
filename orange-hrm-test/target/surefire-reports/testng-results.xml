@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-28T22:23:05 WIB" name="OrangeHRM Automation Suite" finished-at="2025-07-28T22:24:14 WIB" duration-ms="69033">
+    <groups>
+    </groups>
+    <test started-at="2025-07-28T22:23:05 WIB" name="Login-Section-Test" finished-at="2025-07-28T22:24:14 WIB" duration-ms="69033">
+      <class name="com.example.java.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:05 WIB" name="setup" finished-at="2025-07-28T22:23:09 WIB" duration-ms="3311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testEmptyFields()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:09 WIB" name="testEmptyFields" description="Login with empty username and password" finished-at="2025-07-28T22:23:17 WIB" duration-ms="8489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:20 WIB" name="tearDown" finished-at="2025-07-28T22:23:21 WIB" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:21 WIB" name="setup" finished-at="2025-07-28T22:23:23 WIB" duration-ms="2183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testInvalidPassword()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:23 WIB" name="testInvalidPassword" description="Login with invalid password" finished-at="2025-07-28T22:23:37 WIB" duration-ms="13845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:39 WIB" name="tearDown" finished-at="2025-07-28T22:23:39 WIB" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:39 WIB" name="setup" finished-at="2025-07-28T22:23:42 WIB" duration-ms="2091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testInvalidUsername()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:42 WIB" name="testInvalidUsername" description="Login with invalid username" finished-at="2025-07-28T22:23:49 WIB" duration-ms="7273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:51 WIB" name="tearDown" finished-at="2025-07-28T22:23:52 WIB" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:52 WIB" name="setup" finished-at="2025-07-28T22:23:54 WIB" duration-ms="1848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testValidLogin()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:23:54 WIB" name="testValidLogin" description="Verify login works with valid credentials" finished-at="2025-07-28T22:24:12 WIB" duration-ms="17842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.java.testcases.LoginTest@6caf0677]" started-at="2025-07-28T22:24:14 WIB" name="tearDown" finished-at="2025-07-28T22:24:14 WIB" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.java.testcases.LoginTest -->
+    </test> <!-- Login-Section-Test -->
+  </suite> <!-- OrangeHRM Automation Suite -->
+</testng-results>
